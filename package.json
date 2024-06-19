@@ -1,0 +1,19 @@
+{
+  "name": "jsaqa_3_3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --runInBand"
+    
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest-puppeteer": "^10.0.1",
+    "puppeteer": "^22.11.2"
+  },
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
